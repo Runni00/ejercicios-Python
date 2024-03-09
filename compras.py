@@ -1,4 +1,4 @@
-#compra
+#compra ejercicio
 precio = int(input("valor compra "))
 
 balotaRoja = (precio*10) /100

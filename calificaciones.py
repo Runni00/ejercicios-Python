@@ -15,6 +15,8 @@ calificacion8 = int(input("inserte la calificacion del estudiante 8"))
 calificacion9 = int(input("inserte la calificacion del estudiante 9"))
 calificacion10 = int(input("inserte la calificacion del estudiante 10"))
 
+
+
 #calificacion 1 
 if calificacion1 > 80:
     exelente_80 += 1
